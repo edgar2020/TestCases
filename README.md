@@ -1,3 +1,21 @@
+Practicing_With_Test_Cases
+Advanced Java Topics
+12/04/202
+    You will be creating some original programs that have Unit Testing included. These will be added to the class organization 
+        repo.
+    You will be required to create one for each type of structure:
+    -Simple output
+    -If
+    -If/else
+    -if/elseif (else is optional on this one)
+    -While
+    -for
+    -1D array
+    -2D array
+    -ArrayList
+    
+This practice primarily taught me how to make basic test cases, similar to Hacker Rank, but much more crude.
+
 # TestCases
 /**ArrayListQuestion
      * You are given an the task of creating a program that simulates a storage room
